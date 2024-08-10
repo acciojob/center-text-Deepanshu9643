@@ -2,14 +2,18 @@
 .container {
   position: relative;
   text-align: center;
-  color: white;
 }
 
 .container img{
 	width:100%;
+	
 }
 
 .container h1 {
   position: absolute;
+	 color: white;
+	background-color: rgba(0, 0, 0, 0.5);
+	 padding: 10px;
+  border-radius: 5px;
 }
 

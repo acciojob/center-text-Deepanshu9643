@@ -2,6 +2,8 @@
 .container {
   position: relative;
   text-align: center;
+	padding:10px;
+	border:10px;
 }
 
 .container img{
@@ -11,9 +13,6 @@
 
 .container h1 {
   position: absolute;
-	 color: white;
-	background-color: rgba(0, 0, 0, 0.5);
-	 padding: 10px;
-  border-radius: 5px;
+	background-color: rgba(0, 0, 0, 0);
 }
 
